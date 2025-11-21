@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iscaio/cronometro-bazar.git/static/css/main.3383f631.css",
+    "main.js": "/iscaio/cronometro-bazar.git/static/js/main.4b516756.js",
+    "index.html": "/iscaio/cronometro-bazar.git/index.html",
+    "main.3383f631.css.map": "/iscaio/cronometro-bazar.git/static/css/main.3383f631.css.map",
+    "main.4b516756.js.map": "/iscaio/cronometro-bazar.git/static/js/main.4b516756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3383f631.css",
+    "static/js/main.4b516756.js"
+  ]
+}
