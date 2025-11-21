@@ -6,7 +6,7 @@ const adIntervals = [15 * 60, 10 * 60, 5 * 60];
 const adDuration = 15;
 
 export default function TimerWithAds() {
-  const [timeLeft, setTimeLeft] = useState(3 * 60);
+  const [timeLeft, setTimeLeft] = useState(20 * 60);
   const [isRunning, setIsRunning] = useState(false);
 
   const [showAd, setShowAd] = useState(false);
