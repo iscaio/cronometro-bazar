@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cronometro-bazar/static/css/main.3383f631.css",
-    "main.js": "/cronometro-bazar/static/js/main.a3281c56.js",
+    "main.css": "/cronometro-bazar/static/css/main.7293bc64.css",
+    "main.js": "/cronometro-bazar/static/js/main.40ae7619.js",
     "index.html": "/cronometro-bazar/index.html",
-    "main.3383f631.css.map": "/cronometro-bazar/static/css/main.3383f631.css.map",
-    "main.a3281c56.js.map": "/cronometro-bazar/static/js/main.a3281c56.js.map"
+    "main.7293bc64.css.map": "/cronometro-bazar/static/css/main.7293bc64.css.map",
+    "main.40ae7619.js.map": "/cronometro-bazar/static/js/main.40ae7619.js.map"
   },
   "entrypoints": [
-    "static/css/main.3383f631.css",
-    "static/js/main.a3281c56.js"
+    "static/css/main.7293bc64.css",
+    "static/js/main.40ae7619.js"
   ]
 }
